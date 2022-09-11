@@ -45,7 +45,7 @@ public class Main {
         int minutesInMonth = 10 * minutesInThreeDays;
         System.out.println("За " + minutesInMonth + " минут машина произвела бутылок " + productivityPerMinute * minutesInMonth + " штук");
 
-        // Задача 5
+        // Задача  5
         int totalPaint = 120;
         int whitePaintPerClass = 2;
         int brownPaintPerClass = 4;
